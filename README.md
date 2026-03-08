@@ -1,1 +1,2 @@
-# M41_Lab2
+# Laboratorio 2 astrofisica ML
+
